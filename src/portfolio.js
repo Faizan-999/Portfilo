@@ -7,20 +7,20 @@ import emoji from "react-easy-emoji";
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  username: "Ali Raza",
-  title: "Hi all, I'm Ali",
-  subTitle: emoji("A passionate Full Stack Software Developer 🚀 having an experience of building Web Applications with JavaScript, Vuejs, Reactjs, Node and Laravel"),
+  username: "Faizan Ali",
+  title: "Hi all, I'm Faizan",
+  subTitle: emoji("A passionate Front-End Full Stack Software Developer 🚀 having an experience of building Web Applications with JavaScript,HTML5,CSS, Wordpress and JQuery"),
 };
 
 // Your Social Media Link
 
 const socialMediaLinks = {
 
-  github: "https://github.com/aliraza114",
-  linkedin: "https://www.linkedin.com/in/janigaga/",
-  gmail: "aliraza35690@gmail.com",
-  facebook: "https://www.facebook.com/Alirazaakra/",
-  instagram: "https://www.instagram.com/janigaga",
+  github: "https://github.com/Faizan-999",
+  linkedin: "https://www.linkedin.com/in/faizan-ali-08a599200",
+  gmail: "awanf857@gmail.com",
+  facebook: "#",
+  instagram: "#",
   
   // Instagram and Twitter are also supported in the links!
 };
@@ -29,11 +29,11 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What i do",
-  subTitle: "FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "FRONT-END FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji("⚡ Develop highly interactive Front end / User Interfaces for your Web Applications"),
-    emoji("⚡ Develop API using Laravel and Node"),
-    emoji("⚡ Developing and integrating GraphQl APIs"),
+    emoji("⚡ Develop websites using HTM%,CSS and JS"),
+    emoji("⚡ Develope and Animate Websites using Js ,CSS and WOW Anim"),
     emoji("⚡ Interested in CICD, github actions and JAM stack Serverless Development"),
   ],
 
@@ -62,16 +62,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "vuejs",
-      fontAwesomeClassname: "fab fa-vuejs"
-    },
-    {
-      skillName: "android",
-      fontAwesomeClassname: "fab fa-android"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
+      skillName: "Jquery",
+      fontAwesomeClassname: "fab fa-Jquery"
     },
     {
       skillName: "sql-database",
@@ -81,14 +73,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
     },
-    {
-      skillName: 'dart',
-      fontAwesomeClassname: "fas fa-dart"
-    },
-    {
-      skillName: 'laravel',
-      fontAwesomeClassname: "fas fa-laravel"
-    }
+  
   ]
 };
 
